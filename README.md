@@ -8,7 +8,7 @@ Currently exploring Next.js, backend systems, cloud tools, and scalable web deve
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
 
 <img
 src="https://awesome-github-stats.azurewebsites.net/user-stats/Sant60?cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false&Background=0D1117"
