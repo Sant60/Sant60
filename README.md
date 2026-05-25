@@ -23,40 +23,40 @@ Currently exploring Next.js, backend systems, cloud tools, and scalable web deve
 <table>
   <tr>
 
-<td align="center">
+<!-- <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
 <br>C
-</td>
+</td> -->
 
-<td align="center">
+<!-- <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
 <br>C++
-</td>
+</td> -->
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
 <br>JavaScript
 </td>
 
-<td align="center">
+<!-- <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
 <br>PHP
-</td>
+</td> -->
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
 <br>Python
 </td>
 
-<td align="center">
+<!-- <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
 <br>HTML5
-</td>
+</td> -->
 
-<td align="center">
+<!-- <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
 <br>CSS3
-</td>
+</td> -->
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
