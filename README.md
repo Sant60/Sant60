@@ -1,101 +1,137 @@
-<h2 align="left">Hi! 👋 I am Santosh Kumar, a full-stack web developer.</h2>
+<h2 align="left">Hi 👋 I'm Santosh Kumar</h2>
 
+<p align="left">
+Full-stack web developer passionate about building practical web applications and learning modern technologies.
+Currently exploring Next.js, backend systems, cloud tools, and scalable web development.
+</p>
 
-###
+---
 
+### 📊 GitHub Stats
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sant60?cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false&Background=0D1117)](https://git.io/awesome-stats-card)
 
+![Sant60's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sant60&theme=github-dark-blue&hide_border=true)
 
-
-
-
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sant60?cardType=github&theme=github-dark&fontFamily=&preferLogin=false&Background=273849)](https://git.io/awesome-stats-card)
-![Sant60's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sant60&theme=vue-dark&hide_border=true)
 <!--
-![Sant60's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sant60&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sant60&theme=github_dark&show_icons=true&hide_border=true&layout=compact)
 -->
-###
 
-<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+---
 
-###
-<div align="left">
+### 🛠️ Tech Stack
 
+<div align="left" style="display:flex; flex-wrap:wrap; gap:16px; align-items:center;">
+
+  <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34" alt="c logo" />
-  <img width="14" />
 
+  <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34" alt="cplusplus logo" />
-  <img width="14" />
 
+  <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo" />
-  <img width="14" />
 
+  <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34" alt="php logo" />
-  <img width="14" />
 
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="python logo" />
-  <img width="14" />
 
+  <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo" />
-  <img width="14" />
 
+  <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo" />
-  <img width="14" />
 
+  <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="react logo" />
-  <img width="14" />
 
+  <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
        height="34"
        alt="nextjs logo"
        style="background:white; padding:4px; border-radius:6px;" />
-  <img width="14" />
 
+  <!-- Tailwind CSS -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
        height="34"
        alt="tailwindcss logo" />
-  <img width="14" />
 
+  <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo" />
-  <img width="14" />
 
+  <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git logo" />
-  <img width="14" />
 
+  <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
        height="34"
        alt="github logo"
        style="background:white; padding:4px; border-radius:6px;" />
-  <img width="14" />
 
+  <!-- Flask -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
        height="34"
        alt="flask logo"
        style="background:white; padding:4px; border-radius:6px;" />
-  <img width="14" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" alt="tensorflow logo" />
-  <img width="14" />
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
+       height="34"
+       alt="tensorflow logo" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="34" alt="google cloud logo" />
+  <!-- Google Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
+       height="34"
+       alt="Google Cloud logo" />
+
 </div>
 
-###
+---
+
+### 🌐 Connect With Me
 
 <div align="left">
- <a href="https://www.youtube.com/@Codeventure1m"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a> 
-  <a href="https://www.instagram.com/wannabe_santo/"<img src="[https://as2.ftcdn.net/v2/jpg/03/20/88/33/1000_F_320883393_q7ROQwEkFchU1WGGSfwxCG9X9CLUW0JD.jpg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)" height="35" alt="instagram logo"  /></a>
-  <!-- <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> -->
-  <!-- <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
-  <!-- <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /> -->
- <a href="https://www.linkedin.com/in/codewithsantosh/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a>
+
+  <a href="https://www.linkedin.com/in/codewithsantosh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
+  </a>
+
+  <a href="https://www.instagram.com/wannabe_santo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" />
+  </a>
+
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="facebook logo" />
+  </a>
+
+  <a href="https://www.youtube.com/@Codeventure1m" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube logo" />
+  </a>
+
 </div>
 
-###
+---
+
+### 🧠 Currently Learning
+
+- Next.js App Router
+- Backend architecture
+- Cloud technologies
+- System design basics
+- Full-stack project development
+
+---
+
+### 📌 Featured Work
+
+- Restaurant Order Management System
+- AI Spend Audit
+- American Sign Language Recognition System
+
+---
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Sant60/Sant60/output/snake.svg" alt="Snake animation" />
-
-###
