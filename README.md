@@ -6,13 +6,21 @@ Currently exploring Next.js, backend systems, cloud tools, and scalable web deve
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sant60?cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false&Background=0D1117)](https://git.io/awesome-stats-card)
+<p align="center">
 
-![Sant60's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sant60&theme=github-dark-blue&hide_border=true)
+<img
+src="https://awesome-github-stats.azurewebsites.net/user-stats/Sant60?cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false&Background=0D1117"
+height="180"
+/>
 
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Sant60&theme=github-dark-blue&hide_border=true"
+height="180"
+/>
+
+</p>
 <!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sant60&theme=github_dark&show_icons=true&hide_border=true&layout=compact)
 -->
