@@ -1,19 +1,21 @@
 <h2 align="left">Hi 👋 I'm Santosh Kumar</h2>
 
 <p align="left">
-I build practical full-stack web applications with a focus on clean UI, backend logic, and real-world usability.
-Currently exploring Next.js, scalable backend systems, and cloud technologies.
+Full-stack web developer passionate about building practical web applications and learning modern technologies.
+Currently exploring Next.js, backend systems, cloud tools, and scalable web development.
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sant60&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sant60&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sant60?cardType=github&theme=github-dark&fontFamily=Inter&preferLogin=false&Background=0D1117)](https://git.io/awesome-stats-card)
+
+![Sant60's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sant60&theme=github-dark-blue&hide_border=true)
+
+<!--
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sant60&theme=github_dark&show_icons=true&hide_border=true&layout=compact)
+-->
 
 ---
 
@@ -21,58 +23,58 @@ Currently exploring Next.js, scalable backend systems, and cloud technologies.
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo" />
-<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+<img width="12" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="42" alt="react logo" />
-<img width="14" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+<img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-height="42"
-alt="nextjs logo"
-style="background:white; padding:4px; border-radius:6px;" />
-<img width="14" />
+height="40"
+style="background:white; padding:4px; border-radius:6px;"
+alt="nextjs logo" />
+<img width="12" />
 
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-height="42"
+height="40"
 alt="tailwindcss logo" />
-<img width="14" />
+<img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-height="42"
+height="40"
 alt="python logo" />
-<img width="14" />
+<img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
-height="42"
-alt="flask logo"
-style="background:white; padding:4px; border-radius:6px;" />
-<img width="14" />
+height="40"
+style="background:white; padding:4px; border-radius:6px;"
+alt="flask logo" />
+<img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-height="42"
+height="40"
 alt="mysql logo" />
-<img width="14" />
+<img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-height="42"
+height="40"
 alt="git logo" />
-<img width="14" />
+<img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-height="42"
-alt="github logo"
-style="background:white; padding:4px; border-radius:6px;" />
-<img width="14" />
+height="40"
+style="background:white; padding:4px; border-radius:6px;"
+alt="github logo" />
+<img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-height="42"
+height="40"
 alt="tensorflow logo" />
-<img width="14" />
+<img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"
-height="42"
-alt="google cloud logo" />
+height="40"
+alt="Google Cloud logo" />
 
 </p>
 
@@ -80,21 +82,21 @@ alt="google cloud logo" />
 
 ### 🌐 Connect With Me
 
-<p align="left">
+<div align="left">
 
-<a href="https://www.linkedin.com/in/codewithsantosh/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/codewithsantosh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="linkedin logo" />
+  </a>
 
-<a href="https://www.instagram.com/wannabe_santo/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-</a>
+  <a href="https://www.instagram.com/wannabe_santo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28" alt="instagram logo" />
+  </a>
 
-<a href="https://www.youtube.com/@Codeventure1m" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-</a>
+  <a href="https://www.youtube.com/@Codeventure1m" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="28" alt="youtube logo" />
+  </a>
 
-</p>
+</div>
 
 ---
 
