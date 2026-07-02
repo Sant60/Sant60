@@ -130,6 +130,10 @@ height="40" />
 </table>
 
 ---
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/devsantosh"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devsantosh" /></a></p><br><br>
+</br>
+</br>
 
 ### 🌐 Connect With Me
 
